@@ -1,6 +1,6 @@
 # hello
-My name is <---Insert name--->.
+My name is Hendrick Ling.
 
-I like to <---Insert anything you want--->.
+I like to watch youtube.
 
-I think I am <---Insert anything you want--->.
+I think I am in love with you.
