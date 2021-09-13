@@ -1,6 +1,6 @@
 # hello
-My name is <---Insert name--->.
+My name is Min Han.
 
-I like to <---Insert anything you want--->.
+I like to run.
 
-I think I am <---Insert anything you want--->.
+I think I am not very caught up with my lectures :(
