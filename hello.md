@@ -1,6 +1,5 @@
-# hello
-My name is Cow.
+My name is Wen Jun.
 
-I like to play with RHesidents.
+I like to think of girls.
 
-I think I am a cow.
+I think I am thirsty... and want a drink.
