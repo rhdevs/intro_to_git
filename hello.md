@@ -1,6 +1,6 @@
 # hello
-My name is Leong Huen Weng.
+My name is Maxim!.
 
-I like to sleep.
+I like to drink.
 
-I think I am irresistable.
+I think I am still gonna fail midterms.
