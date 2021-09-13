@@ -1,6 +1,6 @@
 # hello
-My name is <---Insert name--->.
+My name is Hamada Masahiro.
 
-I like to <---Insert anything you want--->.
+I like to play sports and sleep.
 
-I think I am <---Insert anything you want--->.
+I think I am going to die one day from stress.
