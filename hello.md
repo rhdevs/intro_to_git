@@ -1,6 +1,6 @@
 # hello
-My name is <---Insert name--->.
+My name is Wei Pin.
 
-I like to <---Insert anything you want--->.
+I like to survive uni.
 
-I think I am <---Insert anything you want--->.
+I think I am surviving.
