@@ -1,6 +1,6 @@
 # hello
-My name is <---Insert name--->.
+My name is Tai .
 
-I like to <---Insert anything you want--->.
+I like to eat good food.
 
-I think I am <---Insert anything you want--->.
+I think I am learning a lot from this.
