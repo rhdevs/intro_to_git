@@ -1,6 +1,6 @@
 # hello
-My name is <---Insert name--->.
+My name is Prince Pereira.
 
-I like to <---Insert anything you want--->.
+I like to accidentally rm -rf * in my home directory.
 
-I think I am <---Insert anything you want--->.
+I think I a expert engineer.
