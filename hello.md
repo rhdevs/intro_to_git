@@ -1,6 +1,6 @@
 # hello
-My name is <---Insert name--->.
+My name is Charles.
 
-I like to <---Insert anything you want--->.
+I like to suffer in com sci.
 
-I think I am <---Insert anything you want--->.
+I think I am making terrible life choices everyday.
