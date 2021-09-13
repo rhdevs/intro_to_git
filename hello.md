@@ -1,6 +1,6 @@
 # hello
-My name is <---Insert name--->.
+My name is Venus.
 
-I like to <---Insert anything you want--->.
+I like to eat?
 
-I think I am <---Insert anything you want--->.
+I think I am ... sorry i dont know how to fill up this
