@@ -1,6 +1,8 @@
 # hello
-My name is <Tin En Hao>.
+<<<<<<< HEAD
+My name is Tin En Hao.
 
-I like to <code>.
+I like to code.
 
-I think I am <learning cool stuff>.
+I think I am learning cool stuff.
+
