@@ -1,4 +1,3 @@
-
 # Git Lesson Homework
 
 ## Instructions
