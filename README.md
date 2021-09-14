@@ -14,3 +14,5 @@
 3. Follow our standard procedure.
 
 Notes can be found [here](https://cjunxiang.notion.site/RHD1001-Introduction-to-Git-Version-Control-1a94c7ad69ec4bdc9748d849c2fd7c81).
+
+hello there!
