@@ -1,6 +1,6 @@
 # hello
-My name is <---Insert name--->.
+My name is Chin Zhen Yu.
 
-I like to <---Insert anything you want--->.
+I like to go to the gym.
 
-I think I am <---Insert anything you want--->.
+I think I am very passionate in coding.
