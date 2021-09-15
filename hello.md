@@ -1,9 +1,9 @@
 # hello
-<<<<<<< HEAD
-My name is Cow.
 
-I like to play with RHesidents.
+My name is Eugene.
 
-I think I am a cow.
-=======
+I like to watch videos.
+
+I think I am behind on my modules.
+
 
